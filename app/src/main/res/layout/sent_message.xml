@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/sentId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="sent message"
+        android:maxWidth="240dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/but"
+        android:padding="10dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+<!--    <de.hdodenhof.circleimageview.CircleImageView-->
+<!--        android:id="@+id/imageView5"-->
+<!--        android:layout_width="49dp"-->
+<!--        android:layout_height="49dp"-->
+<!--        app:layout_constraintRight_toRightOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        />-->
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

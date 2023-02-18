@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/but.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/chatback.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/edge.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/gradient.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_black_add_button_12020.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_cdnlogo_com_google_icon.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_logout__1_.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_phone.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_phone_331.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_phonecalling.xml" value="0.1475" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_user.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_user1.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/ic_user2.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/receive.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/round.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/selimage.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/drawable/serach.xml" value="0.148" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_chat_log.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_chattinglog.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_forget_password.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_new_messages.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/activity_user.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/receive_message.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/sent_message.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/user.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/layout/view.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/letschat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
