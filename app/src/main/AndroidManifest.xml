@@ -14,7 +14,8 @@
         android:theme="@style/Theme.LetsChat">
         <activity
             android:name=".chattinglog"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
 
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
@@ -32,7 +33,8 @@
 
         <activity
             android:name=".Splash_Screen"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,30 +44,36 @@
         <activity
             android:name=".chat_log"
             android:exported="false"
-            android:permission="android.permission.CALL_PHONE">
+            android:permission="android.permission.CALL_PHONE"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".user" />
         </activity>
         <activity
             android:name=".new_messages"
-            android:exported="false">
+            android:exported="false"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".user" />
         </activity>
         <activity
             android:name=".forget_password"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".user"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".register"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:screenOrientation="portrait"/>
 
         <meta-data
             android:name="preloaded_fonts"
